@@ -1,0 +1,36 @@
+.FavoriteCities {
+    margin-top: 20px;
+    text-align: left;
+}
+
+.FavoriteCities h3 {
+    color: #333;
+    margin-bottom: 15px;
+}
+
+.FavoriteCities .city {
+    background-color: #f5f5f5;
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.FavoriteCities h4 {
+    margin: 0;
+    font-size: 20px;
+    color: #333;
+}
+
+.FavoriteCities button {
+    background-color: #f44336;
+    padding: 5px 10px;
+    font-size: 14px;
+}
+
+.FavoriteCities button:hover {
+    background-color: #d32f2f;
+}

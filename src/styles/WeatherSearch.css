@@ -1,0 +1,17 @@
+.WeatherSearch {
+    margin-bottom: 20px;
+}
+
+.WeatherSearch input[type="text"] {
+    width: 200px;
+    padding: 10px;
+    font-size: 16px;
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    margin-right: 10px;
+}
+
+.WeatherSearch button {
+    padding: 10px 15px;
+    font-size: 16px;
+}
